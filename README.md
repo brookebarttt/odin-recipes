@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project involves setting up a website with recipes.  It will involve basic HTML skills, such as creating pages, using absolute and relative links, displaying photos, and creating ordered and unordered lists.  Additionally, this project will require a foundational understanding of how to use Git and the computer's terminal.  For now, this project will be very minimalistic, but I plan to revisit it later and make it more visually appealing and responsive.
