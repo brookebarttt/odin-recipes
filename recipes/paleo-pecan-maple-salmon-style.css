@@ -1,0 +1,20 @@
+/* paleo-pecan-maple-salmon.css */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header,
+.title,
+div {
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    background-color: grey;
+}
